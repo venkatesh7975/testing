@@ -1,6 +1,3 @@
-Sure! Here’s a **clear, beginner-friendly documentation** explaining **both ways** to add testing to your Vite + React project with Vitest —
-one using **jsdom** (fast, typical for React unit tests),
-and one using **Playwright** for real browser tests.
 
 ---
 
